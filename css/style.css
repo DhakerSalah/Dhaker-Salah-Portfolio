@@ -8940,11 +8940,6 @@ h1, h2, h3, h4, h5,
   -ms-transform-origin: center right;
   transform-origin: center right; }
 
-.progress-circle .progress .progress-value {
-  position: absolute;
-  top: 0;
-  left: 0; }
-
 .ftco-hireme {
   background: #3e64ff;
   z-index: 0;
